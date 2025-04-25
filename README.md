@@ -27,3 +27,10 @@ Use pip to install the required Python library:
 
 ```bash
 pip install pynput
+
+### 1. 📥 Install Dependencies
+
+Use pip to install the required Python library:
+
+```bash
+pip install pynput
