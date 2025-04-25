@@ -1,4 +1,4 @@
-# 🛡️ Basic Python Keylogger (Educational Use Only)
+# 🛡️ Basic Python Keylogger
 
 > **⚠️ Disclaimer:** This project is strictly for ethical and educational purposes. Do not use this code on devices you do not own or without explicit consent. Unauthorized use is illegal and unethical.
 
@@ -22,15 +22,11 @@ This is a **basic Python keylogger** that logs keystrokes using `pynput`, saves 
 ## ⚙️ Setup Instructions
 
 ### 1. 📥 Install Dependencies
-
 Use pip to install the required Python library:
 
 ```bash
-pip install pynput
+pip install pynput 
 
-### 1. 📥 Install Dependencies
 
-Use pip to install the required Python library:
 
-```bash
-pip install pynput
+
